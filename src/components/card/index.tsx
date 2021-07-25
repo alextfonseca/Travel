@@ -1,4 +1,4 @@
-import { Badge, Box, Divider, Flex, Grid, Icon, Text } from "@chakra-ui/react";
+import { Badge, Box, Divider, Grid, Icon, Text } from "@chakra-ui/react";
 import { FaUserCircle } from "react-icons/fa";
 import { ButtonCard } from "../ButtonCard";
 import { ListCardDuo } from "./ListCardDuo";
