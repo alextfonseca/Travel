@@ -19,6 +19,8 @@ import { Form } from "./components/form/Input";
 import { TextArea } from "./components/form/TextArea";
 import { ButtonCard } from "./components/ButtonCard";
 
+import "./styles/scroll.css";
+
 function App() {
   return (
     <div className="App">
@@ -31,7 +33,7 @@ function App() {
       <Box maxWidth="80%" m="auto">
         <Header />
       </Box>
-      <main>
+      <main id="destinos">
         <Introduction />
         <Box width="100%" align="center">
           <Icon as={TiWaves} fontSize="100" color="cyan.900" />
@@ -39,7 +41,9 @@ function App() {
           <Icon as={TiWaves} fontSize="100" color="cyan.900" />
         </Box>
 
-        <Plans />
+        <Box id="pacotes">
+          <Plans />
+        </Box>
 
         <Image
           width="100%"
@@ -49,7 +53,7 @@ function App() {
           alt="imagem de uma viagem"
         />
 
-        <Box maxWidth="80%" m="auto">
+        <Box maxWidth="80%" m="auto" id="contato">
           <Text
             as="h2"
             color="pink.500"

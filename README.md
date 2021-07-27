@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Travel
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="public/travel.png" alt="exemplo imagem">
 
-## Available Scripts
+> Travel é um site de viagens pelo mundo, toda aplicação foi construída com React.js, chakra ui e typescript. O objetivo é treinar os conhecimentos adquiridos no treinamento do Ignite da Rocketseat.
 
-In the project directory, you can run:
+## 💻 Pré-requisitos
 
-### `yarn start`
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Você instalou a versão mais recente do `< node / npm ou yarn >`
+- Você tem uma máquina `<Windows / Linux / Mac >`.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🚀 Instalando o projeto na sua maquina
 
-### `yarn test`
+Para instalar o projeto, siga estas etapas:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Linux e macOS:
 
-### `yarn build`
+```bash
+git clone https://github.com/alextfonseca/Travel.git
+$ cd travel
+$ yarn install ou npm install
+$ yarn start ou npm start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Windows:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+git clone https://github.com/alextfonseca/Travel.git
+$ cd travel
+$ yarn install ou npm install
+$ yarn start ou npm start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🧾 Usando o projeto
 
-### `yarn eject`
+Com o projeto Travel você pode terá um exemplo de como construir aplicações do futuro, usando interface declarativa no React.js:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# <a href="https://travel-zeta.vercel.app">Acesse o projeto</a>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 😄 Me siga nas redes sociais<br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<p align="left">
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  <a href="https://www.linkedin.com/in/alex-teixeira-da-fonseca-5a99931a2/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-## Learn More
+  <a href="https://wa.me/+5511976184659?text=Olá%20Alex" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  <a href="https://www.instagram.com/devalextf/?hl=pt-br" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>

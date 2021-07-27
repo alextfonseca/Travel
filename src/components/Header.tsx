@@ -19,10 +19,10 @@ export const Header = () => {
       </Box>
 
       <HStack as="nav" display="flex" fontSize="18" spacing={["2", "4"]}>
-        <Link>Destinos</Link>
-        <Link>Pacotes</Link>
-        <Link>Contato</Link>
-        <Link color="pink.500" fontSize="20">
+        <Link href="#destinos">Destinos</Link>
+        <Link href="#pacotes">Pacotes</Link>
+        <Link href="#contato">Contato</Link>
+        <Link color="pink.500" fontSize="20" href="#pacotes">
           Compre agora
         </Link>
       </HStack>
