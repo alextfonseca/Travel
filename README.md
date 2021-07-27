@@ -39,6 +39,21 @@ Com o projeto Travel você pode terá um exemplo de como construir aplicações 
 
 # <a href="https://travel-zeta.vercel.app">Acesse o projeto</a>
 
+## 🧑‍💻 Criador
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/alextfonseca">
+        <img src="https://github.com/alextfonseca.png" width="100px;" alt="Foto de Alex Teixeira da Fonseca no GitHub"/><br>
+        <sub>
+          <b>Alex Teixeira da Fonseca</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 😄 Me siga nas redes sociais<br>
 
 <p align="left">
